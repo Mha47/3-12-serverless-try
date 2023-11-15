@@ -1,4 +1,4 @@
-service: 3-12-serverless-try
+service: serverless-try
 frameworkVersion: 3
 
 provider:
